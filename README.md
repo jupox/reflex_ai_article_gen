@@ -1,8 +1,9 @@
 # Articulos generados con IA - Reflex
 Proyecto Reflex que permite generar articulos con IA deepseek sin necesidad de token o apiKey perfilando un usuario como autor y basado en su edad carga ubicacion y un tema principal, este proyecto se basa en el ejemplo del template de sales by Reflex
 ![Captura de pantalla 2025-03-01 a la(s) 1 18 30 p  m](https://github.com/user-attachments/assets/eef19ccf-0cd7-46ff-932d-1f8b062836d8)
-
-
+![Captura de pantalla 2025-03-01 a la(s) 1 21 10 p  m](https://github.com/user-attachments/assets/a68f18cf-ed04-4003-b352-df55f263a00d)
+![Captura de pantalla 2025-03-01 a la(s) 1 20 40 p  m](https://github.com/user-attachments/assets/131a69da-7631-4d4d-9806-2015cbc357fe)
+![Captura de pantalla 2025-03-01 a la(s) 1 20 21 p  m](https://github.com/user-attachments/assets/74a81f03-cb6b-4e7d-a9ad-950f2786457e)
 ## Instrucciones
 Siga los siguientes pasos para instalar y ejecutar la aplicacion de articulos, es recomendado utilizar venv python y activar el entorno
 
